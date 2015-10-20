@@ -6,7 +6,7 @@ Spring Boot에서 MongoDB를 셋팅하는 방법이다.
 ### Gradle 설정
 compile("org.springframework.boot:spring-boot-starter-data-mongodb")
 
-### application.properties 설정 [Link](http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html)
+### application.properties 설정([추가 정보](http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html))
 spring.data.mongodb.host=127.0.0.1 #호스트 주소
 
 spring.data.mongodb.port=27017
