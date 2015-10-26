@@ -5,7 +5,7 @@ mongoose는 NodeJS에서 사용하는 MongoDB접속 ODM(Object Document Mapping)
 npm install mongoose (-save or -g)
 ```
 
-## Models
+## Models [link](http://mongoosejs.com/docs/models.html)
 user.js
 ```
  var mongoose = require('mongoose');
