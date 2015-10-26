@@ -9,7 +9,7 @@ npm install mongoose (-save or -g)
 user.js
 ```
  var mongoose = require('mongoose');
-
+ //[schema 참고](http://mongoosejs.com/docs/guide.html)
  var schema= new mongoose.Schema({
      'name' : String,
      'email' : String,
